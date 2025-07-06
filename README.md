@@ -14,6 +14,8 @@ https://github.com/user-attachments/assets/d8453bbe-2fe2-4d14-a667-ff50a1331611
 
 Settings
 ![Screenshot 2025-07-06 153116](https://github.com/user-attachments/assets/025032ae-fff4-4af7-9fe9-053673922d40)
+
+
 https://github.com/user-attachments/assets/fe379697-8f26-41ae-a23d-b50fc34711eb
 
 
