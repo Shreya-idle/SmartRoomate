@@ -6,7 +6,7 @@ Profile setup
 https://github.com/user-attachments/assets/1af2afc0-272b-4e9f-aef2-45e58db401dc
 Settings
 ![Screenshot 2025-07-06 153116](https://github.com/user-attachments/assets/025032ae-fff4-4af7-9fe9-053673922d40)
-Uploading Screen Recording 2025-07-06 153238.mp4…
+https://github.com/user-attachments/assets/fe379697-8f26-41ae-a23d-b50fc34711eb
 Notification page
 ![Screenshot 2025-07-06 153309](https://github.com/user-attachments/assets/26499177-ffb5-4192-b02b-09a266a4a1fb)
 
