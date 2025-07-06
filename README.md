@@ -5,7 +5,11 @@ https://shreya-4669070.postman.co/workspace/shreya's-Workspace~6960334e-da4a-4f2
 
 
 Profile setup
-https://github.com/user-attachments/assets/1af2afc0-272b-4e9f-aef2-45e58db401dc
+
+
+https://github.com/user-attachments/assets/d8453bbe-2fe2-4d14-a667-ff50a1331611
+
+
 
 
 Settings
