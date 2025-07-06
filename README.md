@@ -3,10 +3,12 @@ API Testing link of postman
 
 https://shreya-4669070.postman.co/workspace/shreya's-Workspace~6960334e-da4a-4f2b-89bf-0f3c6c0f7f2f/collection/46287483-22a07dd4-6220-4188-bc58-53528cca8fda?action=share&source=copy-link&creator=46287483
 Profile setup
-
-
 https://github.com/user-attachments/assets/1af2afc0-272b-4e9f-aef2-45e58db401dc
-
+Settings
+![Screenshot 2025-07-06 153116](https://github.com/user-attachments/assets/025032ae-fff4-4af7-9fe9-053673922d40)
+Uploading Screen Recording 2025-07-06 153238.mp4…
+Notification page
+![Screenshot 2025-07-06 153309](https://github.com/user-attachments/assets/26499177-ffb5-4192-b02b-09a266a4a1fb)
 
 
 # Smart Roomie
